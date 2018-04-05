@@ -10,7 +10,9 @@ If you are a student with limited budget to spend on hobbies and want to start w
 
 Short, concise list (WIP) - Read below for fuller list.
 
-| Device 	| Year released 	| Why 	| Custom firmware 	| Unbrickable? 	| Resources 	|
+UB = Unbrickable: Can this device be relatively unbrickable?
+
+| Device 	| Year released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
 | Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome	|
 | Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome, coolstar	|
