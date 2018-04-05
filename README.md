@@ -12,7 +12,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 
 **UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
 **Resources**: Where to learn more - Look at labels below \
-**Custom firmware**: + = There is more than one choice
+**Custom firmware**: + = There are more than one choice
 
 | Device 	| Released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
@@ -34,10 +34,10 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | **Ereaders**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquitous	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
-| **Dev boards**	| 	| 	| 	| 	| 	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
 | **Cameras**	| 	| 	| 	| 	| 	|
 | **Phones**	| 	| 	| 	| 	| 	|
+| **Dev boards**	| 	| 	| 	| 	| 	|
 | **Others**	| 	| 	| 	| 	| 	|
 
 Resources:
