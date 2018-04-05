@@ -45,15 +45,6 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Canon Point-n-Shoot	| Various	| Ubiquity, lenses 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
 | Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| Y	| nikonhaxxor	|
 | Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
-| **Phones**	| 	| *Note: Outdated as of yesteryear*	| 	| 	| 	|
-| Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
-| Nexus 5/7, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| nexus57	|
-| HTC HD2	| 2009	| Runs every OS imaginable: Win 6-8, Android, etc.	| Windows Mobile+	| Y	| hd2	|
-| Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
-| Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
-| iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
-| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| sl45	|
-| 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| Y	| xda	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
 | Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
@@ -75,6 +66,15 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
 | Chumby	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
+| **Phones**	| 	| *Note: Outdated as of yesteryear. Interesting but not useful, likely.*	| 	| 	| 	|
+| Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
+| Nexus 5/7, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| nexus57	|
+| HTC HD2	| 2009	| Runs every OS imaginable: Win 6-8, Android, etc.	| Windows Mobile+	| Y	| hd2	|
+| Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
+| Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
+| iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
+| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| sl45	|
+| 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| Y	| xda	|
 
 Resources:
 
