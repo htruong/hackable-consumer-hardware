@@ -48,9 +48,9 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | **Phones**	| 	| *Note: Outdated as of yesteryear*	| 	| 	| 	|
 | Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
 | Nexus 5/7, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| nexus57	|
-| HTC HD2	| 2009	| Runs everything imaginable	| Windows Mobile+	| Y	| hd2	|
+| HTC HD2	| 2009	| Runs every OS imaginable: Win 6-8, Android, etc.	| Windows Mobile+	| Y	| hd2	|
 | Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
-| Palm Pre 1-3	| 2009	| Runs WebOS, easy to hack/write apps	| [Custom FW](http://www.webos-internals.org/)	| Y	| palmpre	|
+| Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
 | iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| iphone	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
@@ -68,10 +68,10 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Android Auto headunit	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
-| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
-| TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
-| T-962 Reflow Oven	| ?	| Reflows your boards, cheap	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
-| TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
+| Xiaomi Dafang Camera	| 2018	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
+| TS100 soldering iron	| ?	| Solder things, small, fast to heat up	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
+| T-962 Reflow Oven	| ?	| Reflows your boards, cheap, flow curves	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
+| TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
 | Chumby	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 
