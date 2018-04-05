@@ -35,10 +35,16 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquitous	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
+| Rockbox devices	| Various	| Runs Doom, plays lossless, drag-n-drop	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iRiver H3x0	| Various	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iPods/Nanos older gens	| Various	| ... + Big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| Sandisk Salsa Clip	| Various	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | **Cameras**	| 	| 	| 	| 	| 	|
 | **Phones**	| 	| 	| 	| 	| 	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | **Vehicles**	| 	| 	| 	| 	| 	|
+| Comma.ai cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
+| Head Units	| Various	| Android Auto infortainment	| [CS](https://getcrankshaft.com)/[OpenAuto](https://github.com/commaai/openpilot)+	| N	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 
 Resources:
@@ -71,6 +77,10 @@ kinect: https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-priz
 nook: https://hackaday.com/tag/nook/
 
 kindle: https://hackaday.com/category/kindle-hacks/
+
+commaai: https://github.com/commaai/openpilot#supported-cars
+
+aauto: https://github.com/commaai/openpilot, https://getcrankshaft.com, https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en
 
 ```
 
