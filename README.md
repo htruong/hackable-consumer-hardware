@@ -18,8 +18,14 @@ Short, concise list:
 | Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad, libreboot	|
 | Home routers	| 2002 -	| Many run OpenWRT	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
 | Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
-| Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [Linux](https://en.wikipedia.org/wiki/OtherOS)	| Y	| otheros	|
+| Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [OtherOS](https://en.wikipedia.org/wiki/OtherOS)	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very resourceful	| [HackingTXbox](http://hackingthexbox.com/)	| Y	| ogxbox	|
+| Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| Y	| psp	|
+| Nintendo Wii	| 2006	| Homebrew, emulators, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| Y	| hackmii	|
+| Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
+| Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
+| B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
+| Amazon Kindle (Some?)	| 2007	| E-ink, ubiquitous	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 
 ```
 Links:
@@ -41,6 +47,15 @@ otheros:
 
 ogxbox: http://hackingthexbox.com/, https://youtu.be/otysqrBT7ko
 
+psp: 
+
+hackmii: http://wiibrew.org/
+
+kinect: https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-prize-get-1000-bounty-for-kinect-for-xbox-360-open-source-drivers/
+
+nook: https://hackaday.com/tag/nook/
+
+kindle: https://hackaday.com/category/kindle-hacks/
 
 ```
 
