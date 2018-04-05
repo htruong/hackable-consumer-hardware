@@ -13,10 +13,11 @@ If you are a student with limited budget to spend on hobbies and want to start w
 
 Please feel free to make pull requests :) 
 
-To make it to this list, with a few exceptions, there are two rules-of-thumb:
+To make it to this list, with a few exceptions, there are several rules-of-thumb:
 
 1. All revisions of such product/model has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
 2. The latest firmware of such product/model should not be able to completely prevent the user from hacking it (so the PS Vita or the Verizon Pixel 1, for example, doesn't count).
+3. If the manufacturer releases a jailbroken firmware, that firmware has to be open-source or allows developmental features (so the Analogue Super Nt doesn't count). Hacking doesn't mean much if only the manufacturer can "hack" it.
 
 In other words, hacking such product has to be a guarranteed goal, not a lottery when you read its serial number/manufactured date/firmware version. You shouldn't have to pray for a device you purchased to be hackable. For wildly popular and easy-to-check devices, such as iPhones or Kindles, these restrictions can be somewhat less strict.
 
