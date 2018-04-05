@@ -57,6 +57,17 @@ The Original XBox is a x86 PC in disguise and has [a book dedicated to hacking i
 - Nintendo NES/SNES minis: You can add more games and if you just need a console to play some NES/SNES games that you like, then you should have a look at them.
 - **Where to learn more**: Ben Heck show. There isn't a central location for game console hacks afaik, just search *how to jailbreak yourgameconsolemodel*
 
+## E-readers
+
+### Barnes and Noble Nook
+
+The Nook is a Android 2.2 device in disguise. It has wifi built-in. Coupled with a Raspberry Pi, you can have a nice e-ink display/dashboard.
+
+### Other notable devices
+
+- Kindles: Many of them are hackable, but I don't know enough to say what exactly is hackable and what isn't. This is a cat-and-mouse game.
+- **Where to learn more**: [HN](https://news.ycombinator.com/item?id=13863046), [Hackaday](https://hackaday.com/tag/ereader/).
+
 ## Development boards
 
 ### Expressif ESP8266 (201?)
@@ -100,6 +111,7 @@ It was designed to run Windows Mobile 6 but it runs _everything_. So, if you wan
 - HP Touchpad: No longer available, and hardware is outdated. But it was phenomenal years ago.
 - iPhones: Can jailbreak but once jailbroken, you can't generally upgrade or downgrade them. iPhone 4 can be hacked to run every iOS that it supports via a bootloader exploit.
 - Motorola Droid: No longer available, and hardware is outdated.
+- WebOS/ Palm Pre 1/2/3: They are really great but then the resources (webos-internals) are slowly dwindling down and it's hard to hack on them now.
 - **Where to learn more**: XDA-developers 
 
 
