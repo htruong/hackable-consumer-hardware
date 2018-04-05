@@ -40,18 +40,31 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | iPods/Nanos older gens	| Various	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | Sandisk Salsa Clip	| Various	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
-| **Others**	| 	| 	| 	| 	| 	|
-| **Phones**	| 	| 	| 	| 	| 	|
+| Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
+| Canon Point-n-Shoot	| Various	| Ubiquity, lenses 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
+| Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| Y	| nikonhaxxor	|
+| Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
+| **Phones**	| 	| Note: Outdated	| 	| 	| 	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
+| Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
+| Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
+| Raspberry Pi Zero W	| 2017	| ... + Very cheap, very small	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
+| Arduino	| 2010 -	| Amazing community and support, wiring	| Bare metal	| Y	| arduino	|
+| Arduino Uno	| 2010	| ... + Powerful enough, ubiquity, has enough IOs	| Bare Metal	| Y	| arduinouno	|
+| ESP	| ?	| Very cheap and small	| Bare metal	| Y	| esp	|
+| ESP8266	| ?	| ... + Extremely cheap, amazing hacks	| Bare metal	| Y	| esp8266	|
+| ESP32	| ?	| ... + Powerful CPU, Wifi/BLE	| Bare metal	| Y	| esp32	|
+| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [Hacked FW](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| Y	| hc0xbt	|
 | **Vehicles**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Android Auto	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| Android Auto headunit	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
 | Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
 | TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
+| Chumby	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 
 Resources:
