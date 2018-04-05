@@ -78,42 +78,26 @@ Please feel free to make pull requests :)
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| Y	| xda	|
 
-Resources:
+Resources
+--
 
-```
-
-chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
-chrome_unbrick: http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html
-
-coolstar: https://coolstar.org/chromebook/
-
-thinkpad: https://www.coreboot.org/Supported_Motherboards, https://www.reddit.com/r/thinkpad/
-thinkpad_unbrick: https://www.coreboot.org/Board:lenovo/x60/Installation
-
-libreboot: https://libreboot.org/docs/hcl/x200.html
-
-router3rd: OpenWRT, wikidevi, hackaday, ASUS merlin, tomato and derrivatives, Gargoyle-router
-router3rd_unbrick: See on OpenWRT wiki
-
-otheros: 
-
-ogxbox: http://hackingthexbox.com/, https://youtu.be/otysqrBT7ko
-
-psp: 
-
-hackmii: http://wiibrew.org/
-
-kinect: https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-prize-get-1000-bounty-for-kinect-for-xbox-360-open-source-drivers/
-
-nook: https://hackaday.com/tag/nook/
-
-kindle: https://hackaday.com/category/kindle-hacks/
-
-commaai: https://github.com/commaai/openpilot#supported-cars
-
-aauto: https://github.com/commaai/openpilot, https://getcrankshaft.com, https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en
-
-```
+- chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
+- chrome_unbrick: [tnhh.net - selfplug](http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html)
+- coolstar: https://coolstar.org/chromebook/
+- thinkpad: https://www.coreboot.org/Supported_Motherboards, https://www.reddit.com/r/thinkpad/
+- thinkpad_unbrick: https://www.coreboot.org/Board:lenovo/x60/Installation
+- libreboot: https://libreboot.org/docs/hcl/x200.html
+- router3rd: OpenWRT, wikidevi, hackaday, ASUS merlin, tomato and derrivatives, Gargoyle-router
+- router3rd_unbrick: See on OpenWRT wiki
+- otheros: 
+- ogxbox: http://hackingthexbox.com/, https://youtu.be/otysqrBT7ko
+- psp: 
+- hackmii: http://wiibrew.org/
+- kinect: [adafruit kinect bounty](https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-prize-get-1000-bounty-for-kinect-for-xbox-360-open-source-drivers/)
+- nook: https://hackaday.com/tag/nook/
+- kindle: https://hackaday.com/category/kindle-hacks/
+- commaai: https://github.com/commaai/openpilot#supported-cars
+- aauto: https://github.com/commaai/openpilot, https://getcrankshaft.com, [headunit reloaded](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en)
 
 # Long form reading
 
