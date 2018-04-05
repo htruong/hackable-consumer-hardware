@@ -2,13 +2,16 @@
 
 
 
-Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. 
+Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. To make to this list, with a few exceptions (iPhones & Kindles), there are two requirements:
+
+1, All revisions of such product has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
+2, The latest firmware of such product should not be able to completely prevents the user from hacking it (so the PS Vita, for example, doesn't count).
 
 The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
-Please feel free to make pull requests :)
+Please feel free to make pull requests :) 
 
 ## Table of hacked hardware (WIP)
 
@@ -25,7 +28,7 @@ Please feel free to make pull requests :)
 | Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)+	| HW	| thinkpad, libreboot	|
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
-| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
+| Linksys WRT54GL	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
 | **Game Consoles**	| 	| 	| 	| 	| 	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very good emulators	| [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+	| Y	| ogxbox	|
