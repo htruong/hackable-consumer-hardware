@@ -21,7 +21,7 @@ To make it to this list, with a few exceptions, there are two rules-of-thumb:
 In other words, hacking such product has to be a guarranteed goal, not a lottery when you read its serial number/manufactured date/firmware version. You shouldn't have to pray for a device you purchased to be hackable. For wildly popular and easy-to-check devices, such as iPhones or Kindles, these restrictions can be somewhat less strict.
 
 
-## Table of hacked hardware (WIP)
+## Table of hackable hardware 
 
 **UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
 **Resources**: Where to learn more - Look at labels below \
