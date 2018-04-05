@@ -105,7 +105,7 @@ It was designed to run Windows Mobile 6 but it runs _everything_. So, if you wan
 
 ## Miscleneaous devices
 
-### Eye-Fi SD cards (?)
+### Eye-Fi SD cards
 
 The small SD-card that runs Linux. It even has [a wiki](http://magiclantern.wikia.com/wiki/Eye-Fi) dedicated to hacking it.
 
@@ -113,13 +113,18 @@ The small SD-card that runs Linux. It even has [a wiki](http://magiclantern.wiki
 
 The [Xiaomi Dafang IP camera](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c) can take an improved firmware.
 
+### Rockbox devices
+
+**iRiver H3{2,4}0** was one of the earlier devices with a 2,5" HDD able to run Rockbox. Even with stock firmware, it supported OGG Vorbis. It sports a NXP ColdFire (previously owned by Motorola/Freescale). (Thanks HN/Fnoord!)
+
+**Sansa Clip (2007)**: It would have been otherwise a "no wireless, less space than a Nomad" device otherwise, but Rockbox transformed all that. Rockbox is an open-source firmware that allows your player to play every audio format imaginable. Also, who knows that [your MP3 player can run Doom now](https://www.rockbox.org/)?
+
+**Older gens iPods**: Anything before the Classic iPod, anything before the iPod nano 3, any iPod Mini is capable of running Rockbox.
+
 ### Canon cameras
 
 They have an [open source firmware](http://www.magiclantern.fm) that adds tons of features to the cameras, such as interval shots and finer manual controls. If you have a point-and-shoot, [there is a firmware for it](http://chdk.wikia.com/), too.
 
-### SanDisk Sansa Clip (2007)
-
-It would have been otherwise a "no wireless, less space than a Nomad" device otherwise, but Rockbox transformed all that. Rockbox is an open-source firmware that allows your player to play every audio format imaginable. Also, who knows that [your MP3 player can run Doom now](https://www.rockbox.org/)?
 
 ### The rest and resources
 
