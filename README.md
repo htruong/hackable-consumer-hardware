@@ -19,7 +19,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | **Laptops**	| 	| 	| 	| 	| 	|
 | Chromebooks	| 2011 -	| Linux native. Many run Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome	|
 | Acer C720	| 2013 -	| ... + Cheap, runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, coolstar	|
-| Thinkpads	| Various	| Widely available, run coreboot vanilla, ME_Cleaner, HW upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad	|
+| Thinkpads	| Various	| Ubiquity, run coreboot vanilla, ME_Cleaner, HW upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad	|
 | Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)+	| HW	| thinkpad, libreboot	|
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
@@ -33,19 +33,26 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
 | **Ereaders**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
-| Amazon Kindle (Some?)	| 2007	| E-ink, ubiquitous	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
+| Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
 | Rockbox devices	| Various	| Runs Doom, plays lossless, drag-n-drop	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iRiver H3x0	| Various	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| iPods/Nanos older gens	| Various	| ... + Big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iPods/Nanos older gens	| Various	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | Sandisk Salsa Clip	| Various	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | **Cameras**	| 	| 	| 	| 	| 	|
+| 	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
+| **Others**	| 	| 	| 	| 	| 	|
 | **Phones**	| 	| 	| 	| 	| 	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | **Vehicles**	| 	| 	| 	| 	| 	|
-| Comma.ai cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Head Units	| Various	| Android Auto infortainment	| [CS](https://getcrankshaft.com)/[OpenAuto](https://github.com/commaai/openpilot)+	| N	| aauto	|
+| Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
+| Android Auto	| Various	| Android Auto head unit infortainment, works with all cars, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| N	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
+| Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [CF](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
+| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [CF](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| ?	| dafang	|
+| TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
+| TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| ?	| ticalc	|
+| SteamLink	| 2015	| Very cheap	| [CF](https://www.reddit.com/r/Steam_Link/)	| ?	| ticalc	|
 
 Resources:
 
