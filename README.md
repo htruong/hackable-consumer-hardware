@@ -2,7 +2,7 @@
 
 
 
-Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. I tried to list all the devices that are still somewhat relevant to 2018 (i.e. still somewhat fun and useful), instead of just being historically interesting.
+Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. 
 
 The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
 
@@ -52,7 +52,8 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
 | Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
 | iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
-| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| iphone	|
+| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| sl45	|
+| 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| Y	| xda	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
 | Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
