@@ -8,7 +8,9 @@ The advent of custom firmwares have pushed the capabilities and use cases of tho
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
-## Short, concise list (WIP)
+Please feel free to make pull requests :)
+
+## Table of hacked hardware (WIP)
 
 **UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
 **Resources**: Where to learn more - Look at labels below \
