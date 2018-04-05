@@ -38,6 +38,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | **Cameras**	| 	| 	| 	| 	| 	|
 | **Phones**	| 	| 	| 	| 	| 	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
+| **Vehicles**	| 	| 	| 	| 	| 	|
 | **Others**	| 	| 	| 	| 	| 	|
 
 Resources:
