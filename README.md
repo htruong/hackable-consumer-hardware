@@ -4,8 +4,8 @@
 
 Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. To make to this list, with a few exceptions (iPhones & Kindles), there are two requirements:
 
-1, All revisions of such product has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
-2, The latest firmware of such product should not be able to completely prevents the user from hacking it (so the PS Vita, for example, doesn't count).
+1. All revisions of such product has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
+2. The latest firmware of such product should not be able to completely prevents the user from hacking it (so the PS Vita, for example, doesn't count).
 
 The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
 
