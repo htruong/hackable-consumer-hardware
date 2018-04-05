@@ -51,8 +51,9 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [CF](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
 | Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [CF](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| ?	| dafang	|
 | TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
+| T-962 Reflow Oven	| ?	| Reflows your boards, cheap	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| ?	| ticalc	|
-| SteamLink	| 2015	| Very cheap	| [CF](https://www.reddit.com/r/Steam_Link/)	| ?	| ticalc	|
+| SteamLink	| 2015	| Very cheap, game controllers	| [CF](https://www.reddit.com/r/Steam_Link/)	| ?	| steamlink	|
 
 Resources:
 
