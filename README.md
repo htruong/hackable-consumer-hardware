@@ -207,6 +207,8 @@ They have an [open source firmware](http://www.magiclantern.fm) that adds tons o
 - TI Calculators: They are expensive brand new but seems a pretty fun target if you find one at Goodwill or a garage sale for a cheap price. They aren't fancy by today's standards in terms of hardware, but apparently there are active communities to hack them.   
 - Chumby/Insignia Infocast 3: Good but outdated hardware, and it is no longer available. I have a lot of fond memories and good things to say about the Chumby. bunnie -- the Chumby's creator, designed it to be hackable and he cares about your freedom too.
 - Everything supported by Rockbox: Could be dicey.
+- TS100 soldering iron: Alt firmware at https://github.com/Ralim/ts100
+- T-962 reflow oven: Alt firmware at https://github.com/UnifiedEngineering/T-962-improvements
 - **Where to learn more**: Hackaday, rockbox wiki, other wikis.
 
 
