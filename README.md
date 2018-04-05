@@ -8,18 +8,19 @@ The advent of custom firmwares have pushed the capabilities and use cases of tho
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
-Short, concise list (WIP) - Read below for fuller list.
+## Short, concise list (WIP) - Read below for fuller list.
 
-UB = Unbrickable: Can this device be relatively unbrickable?
+**UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
+**Resources**: Where to learn more - Look at labels below
 
 | Device 	| Year released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
-| Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)+	| Y	| chrome	|
-| Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| Y	| chrome, coolstar	|
-| Thinkpads	| Various	| Widely available, runs coreboot vanilla, ME_Cleaner, upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad	|
-| Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad, libreboot	|
-| Home routers	| 2002 -	| Many run OpenWRT	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
-| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
+| Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome	|
+| Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, coolstar	|
+| Thinkpads	| Various	| Widely available, runs coreboot vanilla, ME_Cleaner, upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad	|
+| Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad, libreboot	|
+| Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| HW	| router3rd	|
+| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| HW	| router3rd	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [OtherOS](https://en.wikipedia.org/wiki/OtherOS)	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very resourceful	| [HackingTXbox](http://hackingthexbox.com/)	| Y	| ogxbox	|
 | Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| Y	| psp	|
@@ -29,8 +30,9 @@ UB = Unbrickable: Can this device be relatively unbrickable?
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquitous	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 
+Resources:
+
 ```
-Links:
 
 chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
 chrome_unbrick: http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html
