@@ -14,12 +14,12 @@ UB = Unbrickable: Can this device be relatively unbrickable?
 
 | Device 	| Year released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
-| Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome	|
-| Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome, coolstar	|
+| Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)+	| Y	| chrome	|
+| Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| Y	| chrome, coolstar	|
 | Thinkpads	| Various	| Widely available, runs coreboot vanilla, ME_Cleaner, upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad	|
 | Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad, libreboot	|
-| Home routers	| 2002 -	| Many run OpenWRT	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
-| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
+| Home routers	| 2002 -	| Many run OpenWRT	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
+| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [OtherOS](https://en.wikipedia.org/wiki/OtherOS)	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very resourceful	| [HackingTXbox](http://hackingthexbox.com/)	| Y	| ogxbox	|
 | Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| Y	| psp	|
