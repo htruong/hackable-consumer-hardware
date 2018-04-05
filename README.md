@@ -45,14 +45,14 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | **Vehicles**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Android Auto	| Various	| Android Auto head unit infortainment, works with all cars, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| N	| aauto	|
+| Android Auto	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
-| Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [CF](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
-| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [CF](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
+| Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
+| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
 | TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
-| SteamLink	| 2015	| Very cheap, game controllers	| [CF](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
+| SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 
 Resources:
 
