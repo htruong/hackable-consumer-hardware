@@ -11,7 +11,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 ## Short, concise list (WIP) - Read below for fuller list.
 
 **UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
-**Resources**: Where to learn more - Look at labels below
+**Resources**: Where to learn more - Look at labels below \
 **Custom firmware**: + = There is more than one choice
 
 | Device 	| Released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
