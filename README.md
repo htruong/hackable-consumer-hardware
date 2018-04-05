@@ -39,8 +39,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | iRiver H3x0	| Various	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iPods/Nanos older gens	| Various	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | Sandisk Salsa Clip	| Various	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| **Cameras**	| 	| 	| 	| 	| 	|
-| 	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
+| **Digital Cameras**	| 	| 	| 	| 	| 	|
 | **Others**	| 	| 	| 	| 	| 	|
 | **Phones**	| 	| 	| 	| 	| 	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
@@ -49,11 +48,11 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Android Auto	| Various	| Android Auto head unit infortainment, works with all cars, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| N	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [CF](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
-| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [CF](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| ?	| dafang	|
+| Xiaomi Dafang Camera	| 2018	| Wifi, storage	| [CF](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
 | TS100 soldering iron	| ?	| Solder things, small	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
-| TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| ?	| ticalc	|
-| SteamLink	| 2015	| Very cheap, game controllers	| [CF](https://www.reddit.com/r/Steam_Link/)	| ?	| steamlink	|
+| TI Calculator	| ?	| Ubiquity, education	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
+| SteamLink	| 2015	| Very cheap, game controllers	| [CF](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 
 Resources:
 
