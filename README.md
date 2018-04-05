@@ -22,7 +22,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad, libreboot	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| HW	| router3rd	|
 | Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| HW	| router3rd	|
-| Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [OtherOS](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
+| Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very resourceful	| [HackingTXbox](http://hackingthexbox.com/)	| Y	| ogxbox	|
 | Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| Y	| psp	|
 | Nintendo Wii	| 2006	| Homebrew, emulators, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| Y	| hackmii	|
