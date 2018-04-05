@@ -2,16 +2,20 @@
 
 
 
-Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. To make to this list, with a few exceptions (iPhones & Kindles), there are two requirements:
-
-1. All revisions of such product has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
-2. The latest firmware of such product should not be able to completely prevents the user from hacking it (so the PS Vita, for example, doesn't count).
+Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
 The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
 Please feel free to make pull requests :) 
+
+To make it to this list, with a few exceptions, there are two rule-of-thumbs:
+
+1. All revisions of such product/model has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
+2. The latest firmware of such product/model should not be able to completely prevent the user from hacking it (so the PS Vita, for example, doesn't count).
+
+In other words, hacking such product has to be a guarranteed goal, not a lottery.
 
 ## Table of hacked hardware (WIP)
 
