@@ -8,7 +8,7 @@ The advent of custom firmwares have pushed the capabilities and use cases of tho
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
-Short, concise list:
+Short, concise list (WIP) - Read below for fuller list.
 
 | Device 	| Year released 	| Why 	| Custom firmware 	| Unbrickable? 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
