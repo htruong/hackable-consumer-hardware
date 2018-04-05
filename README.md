@@ -36,22 +36,23 @@ If you are a student with limited budget to spend on hobbies and want to start w
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
 | Rockbox devices	| Various	| Runs Doom, plays lossless, drag-n-drop	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| iRiver H3x0	| Various	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| iPods/Nanos older gens	| Various	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| Sandisk Salsa Clip	| Various	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| iPod Touch 1/2G	| Various	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
+| iRiver H300 series	| 2005-	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iPods/Nanos older gens	| 2001	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| Sandisk Salsa Clip	| ?	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iPod Touch 1/2G	| 2007	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
 | Canon Point-n-Shoot	| Various	| Ubiquity, lenses 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
 | Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| Y	| nikonhaxxor	|
 | Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
 | **Phones**	| 	| *Note: Outdated as of yesteryear*	| 	| 	| 	|
-| Nokia N900	| 	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
+| Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
 | Nexus 5/7, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| nexus57	|
 | HTC HD2	| 2009	| Runs everything imaginable	| Windows Mobile+	| Y	| hd2	|
-| Fairphone 2	| 	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
-| Palm Pre 1-3	| 	| Runs WebOS, easy to hack/write apps	| [Custom FW](http://www.webos-internals.org/)	| Y	| palmpre	|
-| iPhones	| 	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
+| Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
+| Palm Pre 1-3	| 2009	| Runs WebOS, easy to hack/write apps	| [Custom FW](http://www.webos-internals.org/)	| Y	| palmpre	|
+| iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
+| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| iphone	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
 | Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
