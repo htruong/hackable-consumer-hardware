@@ -209,6 +209,7 @@ They have an [open source firmware](http://www.magiclantern.fm) that adds tons o
 - Everything supported by Rockbox: Could be dicey.
 - TS100 soldering iron: Alt firmware at https://github.com/Ralim/ts100
 - T-962 reflow oven: Alt firmware at https://github.com/UnifiedEngineering/T-962-improvements
+- SteamLink: Can run some software, but it is bootloader locked. However, kexec exploit works. https://www.reddit.com/r/Steam_Link/
 - **Where to learn more**: Hackaday, rockbox wiki, other wikis.
 
 
