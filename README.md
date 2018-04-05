@@ -1,14 +1,53 @@
-# hackable-consumer-hardware
-List of hackable consumer hardware products
+# List of hackable consumer hardware products
 
 
-Here I try to maintain a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. I tried to list all the devices that are still somewhat relevant to 2018 (i.e. still somewhat fun and useful), instead of just being historically interesting.
+
+Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers. I tried to list all the devices that are still somewhat relevant to 2018 (i.e. still somewhat fun and useful), instead of just being historically interesting.
 
 The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
 
+Short, concise list:
+
+| Device 	| Year released 	| Why 	| Custom firmware 	| Unbrickable? 	| Resources 	|
+|----------	|---------------	|-----------	|-----------------	|----------	|----------	|
+| Chromebooks	| 2011 -	| Cheap, many run Linux, Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome	|
+| Acer C720	| 2013 -	| ... + runs OS X	| [MrChromebox](http://MrChromebox.tech)	| Y	| chrome, coolstar	|
+| Thinkpads	| Various	| Widely available, runs coreboot vanilla, ME_Cleaner, upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad	|
+| Thinkpad X200	| 2009	| ... + runs libreboot, can disable ME entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| Y	| thinkpad, libreboot	|
+| Home routers	| 2002 -	| Many run OpenWRT	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
+| Linksys WRT54	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)	| Y	| router3rd	|
+| Sony PS3	| 2006	| Homebrew, distributed computing, Linux	| [Linux](https://en.wikipedia.org/wiki/OtherOS)	| Y	| otheros	|
+| Microsoft OG XBOX	| 2006	| X86, cheap, very resourceful	| [HackingTXbox](http://hackingthexbox.com/)	| Y	| ogxbox	|
+
+```
+Links:
+
+chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
+chrome_unbrick: http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html
+
+coolstar: https://coolstar.org/chromebook/
+
+thinkpad: https://www.coreboot.org/Supported_Motherboards, https://www.reddit.com/r/thinkpad/
+thinkpad_unbrick: https://www.coreboot.org/Board:lenovo/x60/Installation
+
+libreboot: https://libreboot.org/docs/hcl/x200.html
+
+router3rd: OpenWRT, wikidevi, hackaday, ASUS merlin, tomato and derrivatives, Gargoyle-router
+router3rd_unbrick: See on OpenWRT wiki
+
+otheros: 
+
+ogxbox: http://hackingthexbox.com/, https://youtu.be/otysqrBT7ko
+
+
+```
+
+# Long form reading
+
 ## Laptops
+
 
 ### Acer Chromebook C720 (2013)
 
@@ -32,11 +71,6 @@ Routers are the exception to the norm. Most of the routers available on the mark
 ### Linksys WRT54G (2002)
 
 The router that started it all. It was sued for violating the GPLv2 license. Linksys had to publish the source code for the router, and the rest was history. It is still now being used and trusted by many many people, 15 years after its first release. It can run mesh network, has a huge ham fanbase, and has interchangable antennas. What's not to like?
-
-### The rest and resources
-
-- Everything that is supported by LEDE/OpenWRT. ASUS, Linksys, Netgear routers are notorously good about this.
-- **Where to learn more**: Search for LEDE, OpenWRT, wikidevi, hackaday, ASUS merlin, tomato and derrivatives, Gargoyle-router.
 
 ## Game Consoles & Handhelds
 
