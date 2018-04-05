@@ -13,7 +13,7 @@ If you are a student with limited budget to spend on hobbies and want to start w
 
 Please feel free to make pull requests :) 
 
-To make it to this list, with a few exceptions, there are two rule-of-thumbs:
+To make it to this list, with a few exceptions, there are two rules-of-thumb:
 
 1. All revisions of such product/model has to be hackable (so if only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM don't count).
 2. The latest firmware of such product/model should not be able to completely prevent the user from hacking it (so the PS Vita or the Verizon Pixel 1, for example, doesn't count).
