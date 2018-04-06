@@ -24,7 +24,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 
 ## Table of hackable hardware 
 
-**UB = Unbrickable**: Is this device relatively unbrickable? Y = Yes, N = No, HW = Needs additional hardware \
+**UB = Unbrickable**: Is this device practically unbrickable/Extremely low risk when installing the custom FW? Y = Yes, N = No, HW = Needs additional hardware to unbrick \
 **Resources**: Where to learn more - Look at labels below \
 **Custom firmware**: + = There are more than one choice
 
@@ -41,8 +41,8 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | **Game Consoles**	| 	| 	| 	| 	| 	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very good emulators	| [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+	| Y	| ogxbox	|
-| Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| Y	| psp	|
-| Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| Y	| hackmii	|
+| Sony PSP	| 2004	| Homebrew, portable, emulators	| [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)	| ?	| psp	|
+| Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| N	| hackmii	|
 | Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
 | **Ereaders**	| 	| 	| 	| 	| 	|
@@ -57,7 +57,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
 | Canon Point-n-Shoot	| Various	| Ubiquity, lenses 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
-| Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| Y	| nikonhaxxor	|
+| Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| ?	| nikonhaxxor	|
 | Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
