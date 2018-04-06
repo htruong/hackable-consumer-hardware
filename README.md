@@ -111,7 +111,7 @@ Resources
 - commaai: https://github.com/commaai/openpilot#supported-cars
 - aauto: https://github.com/commaai/openpilot, https://getcrankshaft.com, [headunit reloaded](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en)
 
-# Long form reading
+# Long version
 
 ## Laptops
 
