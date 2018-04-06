@@ -1,4 +1,4 @@
-AUTOGEN_WARNING=**Warning**: This table is auto-generated. Please do not edit\/submit pull requests to this file directly.
+AUTOGEN_WARNING=**Warning**: This table is auto-generated. Please do not edit\/submit pull requests to \`README.md\` directly. Edit the \`src\/toh.tsv\` file.
 
 TARGET=README
 

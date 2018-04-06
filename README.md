@@ -9,7 +9,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 
 ## Table of hackable hardware 
 
-**Warning**: This table is auto-generated. Please do not edit/submit pull requests to this file directly.
+**Warning**: This table is auto-generated. Please do not edit/submit pull requests to `README.md` directly. Edit the `src/toh.tsv` file.
 
 **UB = Unbrickable**: Is this device practically unbrickable/Extremely low risk when installing the custom FW? Y = Yes, N = No, HW = Needs additional hardware to unbrick. \
 **Resources**: Links to interesting trivia you might not know. See below. \
