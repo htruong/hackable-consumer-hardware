@@ -25,7 +25,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 ## Table of hackable hardware 
 
 **UB = Unbrickable**: Is this device practically unbrickable/Extremely low risk when installing the custom FW? Y = Yes, N = No, HW = Needs additional hardware to unbrick \
-**Resources**: Where to learn more - Look at labels below \
+**Resources**: Links to interesting trivia you might not know \
 **Custom firmware**: + = There are more than one choice
 
 | Device 	| Released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
@@ -35,7 +35,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Acer C720	| 2013	| ... + Cheap, replacable ssd, runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, peppy	|
 | Dell Chromebook 13	| 2015	| ... + IPS 1080p, replacable ssd, big trackpad, backlit kb, aluminum build	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, lulu	|
 | Thinkpads	| Various	| Ubiquity, run coreboot vanilla, ME_Cleaner, HW upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad	|
-| Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)+	| HW	| thinkpad, libreboot	|
+| Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Libreboot](https://libreboot.org/docs/hcl/x200.html)+	| HW	| thinkpad, libreboot	|
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
 | Linksys WRT54GL	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
@@ -88,7 +88,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | HTC HD2	| 2009	| Runs every OS imaginable: Win 6-8, Android, etc.	| Windows Mobile+	| Y	| hd2	|
 | Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
 | Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
-| HP Touchpad	| 2011	| "Firesale", runs many Android versions	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| tenderlion	|
+| HP Touchpad	| 2011	| """Firesale""", runs many Android versions	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| tenderlion	|
 | Nexus 7	| 2013	| De facto Android tablet, runs many exotic OS	| Android+	| Y	| nexus7	|
 | iPhones/iPads	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
@@ -97,23 +97,22 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 Resources
 --
 
-- chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
-- chrome_unbrick: [tnhh.net - selfplug](http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html)
-- peppy: https://coolstar.org/chromebook/
-- thinkpad: https://www.coreboot.org/Supported_Motherboards, https://www.reddit.com/r/thinkpad/
-- thinkpad_unbrick: https://www.coreboot.org/Board:lenovo/x60/Installation
-- libreboot: https://libreboot.org/docs/hcl/x200.html
-- router3rd: OpenWRT, wikidevi, hackaday, ASUS merlin, tomato and derrivatives, Gargoyle-router
-- router3rd_unbrick: See on OpenWRT wiki
-- otheros: 
-- ogxbox: http://hackingthexbox.com/, https://youtu.be/otysqrBT7ko
+- chrome: [Subreddit](https://www.reddit.com/r/chrultrabook/), [Remove Intel ME automatically](http://www.tnhh.net/posts/ezpi4me-intel-me-be-gone.html), [Ubuntu-based distro (most distros work OOB)](https://galliumos.org/) 
+- chrome_unbrick: [Flashrom](https://flashrom.org/Flashrom), [Unbrick with Raspberry Pi](http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html)
+- peppy: [Runs macOS](https://coolstar.org/chromebook/)
+- thinkpad: [You can upgrade their screens and even motherboards](https://www.reddit.com/r/thinkpad/)
+- thinkpad_unbrick: Same as chrome_unbrick
+- router3rd: To look up specs, try [wikidevi](https://wikidevi.com/wiki/Main_Page). There are tons of other firmwares such as DD-WRT, ASUS merlin, [tomato and other derrivatives](https://en.wikipedia.org/wiki/Tomato_(firmware)), Gargoyle-router
+- router3rd_unbrick: Depends on the model, you have to consult openwrt wiki
+- otheros: [Geohot's bad rap](https://www.youtube.com/watch?v=9iUvuaChDEg), [PS3 fail0verflow talk](https://www.youtube.com/watch?v=LP1t_pzxKyE)
+- ogxbox: [Bunnie's site](http://hackingthexbox.com/), Modern Vintage Gamer's series [-1-](https://youtu.be/otysqrBT7ko), [-2-](https://www.youtube.com/watch?v=x7FmelyC70Y)
 - psp: 
-- hackmii: http://wiibrew.org/
+- hackmii: [Wiibrew](http://wiibrew.org/)
 - kinect: [adafruit kinect bounty](https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-prize-get-1000-bounty-for-kinect-for-xbox-360-open-source-drivers/)
-- nook: https://hackaday.com/tag/nook/
-- kindle: https://hackaday.com/category/kindle-hacks/
-- commaai: https://github.com/commaai/openpilot#supported-cars
-- aauto: https://github.com/commaai/openpilot, https://getcrankshaft.com, [headunit reloaded](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en)
+- nook: [HaD](https://hackaday.com/tag/nook/)
+- kindle: [HaD](https://hackaday.com/category/kindle-hacks/)
+- commaai: [OpenPilot supported carts list](https://github.com/commaai/openpilot#supported-cars)
+- aauto: [crankshaft subreddit](https://www.reddit.com/r/crankshaft), [aasdk](https://github.com/f1xpl/aasdk), [android version](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en)
 
 # Long version
 
