@@ -31,7 +31,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 |Microsoft OG XBOX|2006|X86, cheap, very good emulators|[EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+|Y|[ogxbox](#ogxbox)|
 |Sony PSP|2004|Homebrew, portable, emulators|[Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew)|?|[psp](#psp)|
 |Nintendo Wii|2006|Homebrew, ext USB|[Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)|N|[hackmii](#hackmii)|
-|Nintendo NES/SNES mini|2016|Can add more games, simple|None|Y|[snesmini](#snesmini)|
+|Nintendo NES/SNES mini|2016|Can add more games, controllers, simple|[hakchi2](https://github.com/ClusterM/hakchi2)|Y|[snesmini](#snesmini)|
 |Microsoft Kinect|2010|SDK Officially supported by MS|[Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)|Y|[kinect](#kinect)|
 |**E-readers**||||||
 |B&N Nook Touch|2012|E-ink, relatively open, Android 2.2|[Android](https://forum.xda-developers.com/nook-touch)|Y|[nook](#nook)|
@@ -77,7 +77,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 |HTC HD2|2009|Runs every OS imaginable: Win 6-8, Android, etc.|Windows Mobile+|Y|[hd2](#hd2)|
 |Fairphone 2|2015|Designed to be opened, swappable modules|Android|Y|[fp2](#fp2)|
 |Palm Pre 1-3|2009|Runs WebOS, friendly to develop|[WebOS Internals](http://www.webos-internals.org/)|Y|[palmpre](#palmpre)|
-|HP Touchpad|2011|Firesale, runs many Android versions|[WebOS Internals](http://www.webos-internals.org/)|Y|[tenderlion](#tenderlion)|
+|HP Touchpad|2011|Firesale, runs many Android versions|[WebOS Internals](http://www.webos-internals.org/)|Y|[tenderloin](#tenderloin)|
 |Nexus 7|2013|De facto Android tablet, runs many exotic OS|Android+|Y|[nexus7](#nexus7)|
 |iPhones/iPads|2008|Ubiquity, runs iOS, very active community|[JB FW/Cydia](https://cydia.saurik.com/)|Y|[iphone](#iphone)|
 |Siemens SL45|2001|First phone to play MP3|[Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)|?|[sl45](#sl45)|
