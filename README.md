@@ -1,15 +1,12 @@
-# List of hackable consumer hardware products
+# Two decades of hackable consumer hardware products
 
+Here is my personal list of amazing consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
+The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. I will try to list uses of products such as the Raspberry Pi which was never intended as well.
 
-Here is a list of consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
+If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That was how I started out.
 
-The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime.
-
-If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That's how I started out.
-
-
-## Adding a device you know
+## Adding a device/hack you know
 
 Please feel free to make pull requests :) 
 
@@ -39,6 +36,8 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
 | Linksys WRT54GL	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
+| RPi Adblock router	| 2017	| Very easy to set up	| [Pi-hole](https://pi-hole.net/)
+| Y	| pihole	|
 | **Game Consoles**	| 	| 	| 	| 	| 	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very good emulators	| [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+	| Y	| ogxbox	|
@@ -46,6 +45,8 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| N	| hackmii	|
 | Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
+| RPi Retro Games	| ?	| Works with most controllers, even wireless	| [RetroPie](https://retropie.org.uk/)
+| Y	| retropie	|
 | **Ereaders**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
@@ -67,13 +68,13 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Raspberry Pi Zero W	| 2017	| ... + Very cheap, very small	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
 | Arduino	| 2010 -	| Amazing community and support, wiring	| Bare metal	| Y	| arduino	|
 | Arduino Uno	| 2010	| ... + Powerful enough, ubiquity, has enough IOs	| Bare Metal	| Y	| arduinouno	|
-| ESP	| ?	| Very cheap and small	| Bare metal	| Y	| esp	|
-| ESP8266	| ?	| ... + Extremely cheap, amazing hacks	| Bare metal	| Y	| esp8266	|
+| ESP	| ?	| Very cheap and small, wiring	| Bare metal	| Y	| 	|
+| ESP8266	| ?	| ... + Extremely cheap, many crazy projects available	| Bare metal	| Y	| esp8266	|
 | ESP32	| ?	| ... + Powerful CPU, Wifi/BLE	| Bare metal	| Y	| esp32	|
-| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [RN42](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
+| HC-0x Bluetooth	| ?	| Very cheap, does Bluetooth	| [RN42 Firmware](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
 | **Cars**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Android Auto headunit	| 2018	| Works with all cars/phones, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| RPi Android Auto headunits	| 2018	| Works with all cars/phones, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
 | Xiaomi Dafang Camera	| 2017	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
