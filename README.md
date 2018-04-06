@@ -92,7 +92,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
 
-Hacks that transforms devices
+Hacks that transform devices
 --
 
 Every once in a while, there is a hack that comes out and brings a completely new function to a device. Here are my favorites.
@@ -113,11 +113,11 @@ Every once in a while, there is a hack that comes out and brings a completely ne
 Resources
 --
 
-- chrome: [Subreddit](https://www.reddit.com/r/chrultrabook/), [Remove Intel ME automatically](http://www.tnhh.net/posts/ezpi4me-intel-me-be-gone.html), [Ubuntu-based distro (most distros work OOB)](https://galliumos.org/) 
+- chrome: [Subreddit](https://www.reddit.com/r/chrultrabook/), [Remove Intel ME](http://www.tnhh.net/posts/ezpi4me-intel-me-be-gone.html), [Ubuntu-based distro (most distros work OOB)](https://galliumos.org/) 
 - chrome_unbrick: [Flashrom](https://flashrom.org/Flashrom), [Unbrick with Raspberry Pi](http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html)
 - peppy: [Runs macOS](https://coolstar.org/chromebook/)
 - thinkpad: [You can upgrade their screens and even motherboards](https://www.reddit.com/r/thinkpad/)
-- thinkpad_unbrick: Same as chrome_unbrick
+- thinkpad_unbrick: Same as chrome_unbrick. However, you need a dedicated hardware to flash the Thinkpads in the first place.
 - router3rd: To look up specs, try [wikidevi](https://wikidevi.com/wiki/Main_Page). There are tons of other firmwares such as DD-WRT, ASUS merlin, [tomato and other derrivatives](https://en.wikipedia.org/wiki/Tomato_(firmware)), Gargoyle-router
 - router3rd_unbrick: Depends on the model, you have to consult openwrt wiki
 - otheros: [Geohot's bad rap](https://www.youtube.com/watch?v=9iUvuaChDEg), [PS3 fail0verflow talk](https://www.youtube.com/watch?v=LP1t_pzxKyE)
