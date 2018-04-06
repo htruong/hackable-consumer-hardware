@@ -98,10 +98,11 @@ Every once in a while, there is an amazing piece of software/firmware that came 
 
 | Device 	| Original Fn 	| Unintended function 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
-| RPi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
+| Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
 | XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
-| RPi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
-| RPi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| Y	| retropie	|
+| Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| Raspberry Pi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| Y	| retropie	|
+| Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| Y	| dashbtn	|
 
 Resources
 --
