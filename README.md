@@ -94,15 +94,16 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 Firmwares that transform devices
 --
 
-Every once in a while, there is an amazing piece of software/firmware that came out and brings a completely new function to an old device. Here is my favorite.
+Every once in a while, there is an amazing piece of software/firmware that came out and brought a completely new function to a device. Here are my favorites.
 
-| Device 	| Original Fn 	| Unintended function 	| Custom firmware 	| UB 	| Resources 	|
+| Device 	| Original Fn 	| New function 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
 | Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
 | XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
 | Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | Raspberry Pi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| Y	| retropie	|
 | Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| Y	| dashbtn	|
+
 
 Resources
 --
