@@ -25,7 +25,7 @@
 - Depends on the model, you have to consult openwrt wiki
 
 ##### otheros
-- [Geohot's bad rap](https://www.youtube.com/watch?v=9iUvuaChDEg)
+- [Geohot's bad rap when sued by Sony](https://www.youtube.com/watch?v=9iUvuaChDEg)
 - [PS3 fail0verflow talk](https://www.youtube.com/watch?v=LP1t_pzxKyE)
 
 ##### ogxbox
@@ -49,6 +49,8 @@
 
 ##### commaai
 - [OpenPilot supported carts list](https://github.com/commaai/openpilot#supported-cars)
+- Geohot, the founder of comma.ai, was previously known for the iPhone unlock and the PS3 root key publish
+- [Geohot once said](https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/): *The math is simple. For the first time in my life, I'm like, 'I know everything there is to know.'*
 
 ##### aauto
 - [crankshaft subreddit](https://www.reddit.com/r/crankshaft)
@@ -74,5 +76,14 @@
 
 ##### hc0xbt
 - You need a parallel port on your computer to flash the firmware to the HC-0x
+
+##### chumby
+- bunnie, the person mainly responsible for creating the Chumby [sued the US government to remove a section of the DCMA](https://www.eff.org/press/releases/eff-lawsuit-takes-dmca-section-1201-research-and-technology-restrictions-violate)
+- [I wrote about the Chumby here](http://www.tnhh.net/posts/crankshaft-chumby-do-you-believe-in-the-users.html)
+
+##### iphone
+- [iPhones using 32-bit A-processors are completely defeated by now](https://h3lix.tihmstar.net/)
+
+
 
 
