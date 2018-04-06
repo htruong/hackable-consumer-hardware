@@ -96,15 +96,15 @@ Firmwares that transform devices
 
 Every once in a while, there is an amazing piece of software/firmware that came out and brought a completely new function to a device. Here are my favorites.
 
-| Device 	| Original Fn 	| New function 	| Custom firmware 	| UB 	| Resources 	|
-|----------	|---------------	|-----------	|-----------------	|----------	|----------	|
-| NVIDIA GPU	| Gaming	| Scientific research, Finance revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	| Y	| gpgpu	|
-| Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| Y	| ps3hpc	|
-| XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
-| Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| Y	| dashbtn	|
-| Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
-| Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
-| Raspberry Pi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| Y	| retropie	|
+| Device 	| Original Fn 	| New function 	| Enablement 	|  Resources 	|
+|----------	|---------------	|-----------	|-----------------	|----------	|
+| NVIDIA GPU	| Gaming	| Scientific research, Finance revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	|  gpgpu	|
+| Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| ps3hpc	|
+| XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| xbmc	|
+| Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
+| Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| pihole	|
+| Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| aauto	|
+| Raspberry Pi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| retropie	|
 
 
 Resources
