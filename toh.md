@@ -1,0 +1,64 @@
+**Laptops** ,  ,  ,  ,  ,  
+Chromebooks , 2011 - , Linux native. Many run Windows, ME_Cleaner , [MrChromebox](http://MrChromebox.tech)+ , HW , chrome 
+Acer C720 , 2013 , ... + Cheap, replacable ssd, runs OS X , [MrChromebox](http://MrChromebox.tech)+ , HW , chrome, peppy 
+Dell Chromebook 13 , 2015 , ... + IPS 1080p, replacable ssd, big trackpad, backlit kb, aluminum build , [MrChromebox](http://MrChromebox.tech)+ , HW , chrome, lulu 
+Thinkpads , Various , Ubiquity, run coreboot vanilla, ME_Cleaner, HW upgradable , [Coreboot](https://www.coreboot.org/Supported_Motherboards) , HW , thinkpad 
+Thinkpad X200 , 2009 , ... + runs libreboot, ME can be disabled entirely , [Libreboot](https://libreboot.org/docs/hcl/x200.html)+ , HW , thinkpad, libreboot 
+**Routers** ,  ,  ,  ,  ,  
+Home routers , 2002 - , Many run OpenWRT, DD-WRT, Tomato, Gargoyle , [OpenWRT](https://openwrt.org/)+ , Y/HW , router3rd 
+Linksys WRT54GL , 2002 , ... + First router, favored by hams, does mesh , [OpenWRT](https://openwrt.org/)+ , Y , router3rd 
+**Game Consoles** ,  ,  ,  ,  ,  
+Sony PS3 , 2006 , Homebrew, distributed computing, OtherOS , [Linux](https://en.wikipedia.org/wiki/OtherOS)+ , Y , otheros 
+Microsoft OG XBOX , 2006 , X86, cheap, very good emulators , [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+ , Y , ogxbox 
+Sony PSP , 2004 , Homebrew, portable, emulators , [Homebrew](https://en.wikipedia.org/wiki/PlayStation_Portable_homebrew) , ? , psp 
+Nintendo Wii , 2006 , Homebrew, ext USB , [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel) , N , hackmii 
+Nintendo NES/SNES mini , 2016 , Can add more games, simple , None , Y , snesmini 
+Microsoft Kinect , 2010 , SDK Officially supported by MS , [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect) , Y , kinect 
+**E-readers** ,  ,  ,  ,  ,  
+B&N Nook Touch , 2012 , E-ink, relatively open, Android 2.2 , [Android](https://forum.xda-developers.com/nook-touch) , Y , nook 
+Amazon Kindle (Some?) , 2007 , E-ink, ubiquity , [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information) , ? , kindle 
+**MP3 Players** ,  ,  ,  ,  ,  
+Rockbox devices , Various , Runs Doom, plays lossless, drag-n-drop , [Rockbox](http://rockbox.org/) , Y , rockbox 
+iRiver H300 series , ? , ... + Big HDD , [Rockbox](http://rockbox.org/) , Y , rockbox 
+iPods/Nanos older gens , 2001 , ... + Ubiquity, big HDD, moddable, accessories  , [Rockbox](http://rockbox.org/) , Y , rockbox 
+Sandisk Salsa Clip , ? , ... + Compact, SD card support  , [Rockbox](http://rockbox.org/) , Y , rockbox 
+iPod Touch 1/2G , 2007 , Ubiquity, usefulness, touchscreen  , [whited00r](http://www.whited00r.com/index?lang=en) , Y , whited00r 
+iPod Touch 3G , ? , Ubiquity, usefulness, touchscreen  , [grayd00r](http://www.grayd00r.com) , Y , grayd00r 
+**Media Centers** ,  , Media Centers and Streaming boxes ,  ,  ,  
+SteamLink , 2015 , Very cheap, game controllers , [Custom Apps](https://www.reddit.com/r/Steam_Link/) , Y , steamlink 
+**Digital Cameras** ,  ,  ,  ,  ,  
+Canon DSLR , Various , Ubiquity, lenses  , [Magic Lantern](http://www.magiclantern.fm) , Y , magiclantern 
+Canon Point-n-Shoot , Various , Cheap, get the job done  , [CHDK](http://chdk.wikia.com/) , Y , chdk 
+Nikon DSLR , Various , Ubiquity, lenses  , [Custom FW](https://nikonhacker.com/) , ? , nikonhaxxor 
+Sony Mirrorless , Various , Ubiquity, lenses, Android  , [Open Memories](https://github.com/ma1co/OpenMemories-Tweak) , Y , openmem 
+**Dev boards** ,  ,  ,  ,  ,  
+Single Board Computers , Various , Affordable, runs Linux , Linux+ , Y , sbc 
+Raspberry Pi 3 , 2017 , ... + Versatile, ubiquity, affordable, amazing and friendly community , [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+ , Y , rpi3 
+Raspberry Pi Zero W , 2017 , ... + Very cheap, very small , [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+ , Y , rpi0 
+Arduino , 2010 - , Amazing community and support, wiring , Bare metal , Y , arduino 
+Arduino Uno , 2010 , ... + Powerful enough, ubiquity, has enough IOs , Bare Metal , Y , arduinouno 
+ESP , ? , Very cheap and small, wiring , Bare metal , Y ,  
+ESP8266 , ? , ... + Extremely cheap, many crazy projects available , Bare metal , Y , esp8266 
+ESP32 , ? , ... + Powerful CPU, Wifi/BLE , Bare metal , Y , esp32 
+HC-0x Bluetooth , ? , Very cheap, does Bluetooth , [RN42 Firmware](https://www.youtube.com/watch?v=BBqsVKMYz1I) , N , hc0xbt 
+**Cars** ,  ,  ,  ,  ,  
+Comma.ai supported cars , Various , Autonomous driving/assistance , [OpenPilot](https://github.com/commaai/openpilot) , N , commaai 
+**Others** ,  ,  ,  ,  ,  
+Eye-Fi SD cards , ? , Small, Wifi, storage , [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi) , ? , eyefi 
+Xiaomi Dafang Camera , 2017 , Wifi, storage, streaming , [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c) , Y , dafang 
+TS100 soldering iron , ? , Solder things, small, fast to heat up , [Open Firmware](https://github.com/Ralim/ts100) , ? , ts100 
+T-962 Reflow Oven , ? , Reflows your boards, cheap, flow curves , [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements) , ? , t962 
+TI Calculator , ? , Ubiquity, education, slow, fun , [TiCalc](https://www.ticalc.org/) , Y , ticalc 
+Amazon Dash button , 2016 , A cheap button that connects to Wifi and does things , [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt) , Y , dashbtn 
+Chumby, Insignia Infocast , 2007 , Pioneering device to promote hacking , [Linux](http://wiki.chumby.com/) , Y , chumby 
+**Phones & Tablets** ,  , *Note: Outdated as of yesteryear. Interesting but not useful, likely.* ,  ,  ,  
+Nokia N900 , 2009 , Runs Maemo GNU/Linux, has a keyboard , Stock , Y , n900 
+Nexus 5, OnePlus One , 2013 , Tons of custom OSes , Android+ , Y , hammerhead, bacon 
+HTC HD2 , 2009 , Runs every OS imaginable: Win 6-8, Android, etc. , Windows Mobile+ , Y , hd2 
+Fairphone 2 , 2015 , Designed to be opened, swappable modules , Android , Y , fp2 
+Palm Pre 1-3 , 2009 , Runs WebOS, friendly to develop , [WebOS Internals](http://www.webos-internals.org/) , Y , palmpre 
+HP Touchpad , 2011 , """Firesale""", runs many Android versions , [WebOS Internals](http://www.webos-internals.org/) , Y , tenderlion 
+Nexus 7 , 2013 , De facto Android tablet, runs many exotic OS , Android+ , Y , nexus7 
+iPhones/iPads , 2008 , Ubiquity, runs iOS, very active community , [JB FW/Cydia](https://cydia.saurik.com/) , Y , iphone 
+Siemens SL45 , 2001 , First phone to play MP3 , [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware) , ? , sl45 
+'XDA' HTC devices , 2002 , XDA-developers was born from there , [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers) , ? , xda 
