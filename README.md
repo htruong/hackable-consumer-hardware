@@ -104,8 +104,8 @@ Every once in a while, there is an amazing hack that comes out and brings a comp
 | Kinect	| Gaming peripheral	| 3D scanner/modeller	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| kinect	|
 | Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
 | Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| pihole	|
-| Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| aauto	|
-| Raspberry Pi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| retropie	|
+| Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[Crankshaft](https://getcrankshaft.com)+	| aauto	|
+| Raspberry Pi	| Education	| Game console	| [libretro](https://www.libretro.com/)/[RetroPie](https://retropie.org.uk/)	| retropie	|
 
 
 Resources
