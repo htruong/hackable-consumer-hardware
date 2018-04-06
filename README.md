@@ -77,7 +77,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 |HTC HD2|2009|Runs every OS imaginable: Win 6-8, Android, etc.|Windows Mobile+|Y|[hd2](#hd2)|
 |Fairphone 2|2015|Designed to be opened, swappable modules|Android|Y|[fp2](#fp2)|
 |Palm Pre 1-3|2009|Runs WebOS, friendly to develop|[WebOS Internals](http://www.webos-internals.org/)|Y|[palmpre](#palmpre)|
-|HP Touchpad|2011|"""Firesale""", runs many Android versions|[WebOS Internals](http://www.webos-internals.org/)|Y|[tenderlion](#tenderlion)|
+|HP Touchpad|2011|Firesale, runs many Android versions|[WebOS Internals](http://www.webos-internals.org/)|Y|[tenderlion](#tenderlion)|
 |Nexus 7|2013|De facto Android tablet, runs many exotic OS|Android+|Y|[nexus7](#nexus7)|
 |iPhones/iPads|2008|Ubiquity, runs iOS, very active community|[JB FW/Cydia](https://cydia.saurik.com/)|Y|[iphone](#iphone)|
 |Siemens SL45|2001|First phone to play MP3|[Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)|?|[sl45](#sl45)|

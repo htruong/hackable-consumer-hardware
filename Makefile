@@ -4,14 +4,16 @@ TARGET=README
 
 all: $(TARGET).md
 
-$(TARGET).md: $(TARGET)-source.md toh.tsv hacks.tsv references.md
-	sed -e 's/{{autogen_warning}}/$(AUTOGEN_WARNING)/' $(TARGET)-source.md > $(TARGET).md
-	./preprocess.sh toh.tsv
-	./preprocess.sh hacks.tsv
-	sed -ie '/{{toh\.md}}/rtoh.md' $(TARGET).md
-	sed -ie '/{{hacks\.md}}/rhacks.md' $(TARGET).md
-	sed -ie '/{{references\.md}}/rreferences.md' $(TARGET).md
-	sed -ie '/{{.*\.md}}/d' $(TARGET).md
+$(TARGET).md: src/$(TARGET)-source.md src/toh.tsv src/hacks.tsv src/references.md
+	sed -e 's/{{autogen_warning}}/$(AUTOGEN_WARNING)/' src/$(TARGET)-source.md > src/$(TARGET).md
+	./src/preprocess.sh src/toh.tsv
+	./src/preprocess.sh src/hacks.tsv
+	sed -ie '/{{toh\.md}}/rtoh.md' src/$(TARGET).md
+	sed -ie '/{{hacks\.md}}/rhacks.md' src/$(TARGET).md
+	sed -ie '/{{references\.md}}/rsrc/references.md' src/$(TARGET).md
+	sed -ie '/{{.*\.md}}/d' src/$(TARGET).md
+	cd ..
+	mv src/$(TARGET).md .
 
 clean:
 	rm $(TARGET).md
