@@ -71,10 +71,10 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [RN42](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
 | **Cars**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Android Auto headunit	| 2017	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| Android Auto headunit	| 2018	| Works with all cars/phones, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
-| Xiaomi Dafang Camera	| 2018	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
+| Xiaomi Dafang Camera	| 2017	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
 | TS100 soldering iron	| ?	| Solder things, small, fast to heat up	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap, flow curves	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
