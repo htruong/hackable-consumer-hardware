@@ -1,8 +1,8 @@
-# Two decades of hackable consumer hardware products
+# Two decades of hackable consumer electronic
 
-Here is my personal list of amazing consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
+Here is my personal list of amazing consumer electronic devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
-The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. Normally, custom firmwares mean it does it better/more customizable, but sometimes it means "oh what?"
+The world runs on software. The advent of custom firmwares and hacks have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. Normally, custom firmwares mean the hardware does the same function better and more customizable, but sometimes it means "say what?"
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That was how I started out.
 
@@ -94,12 +94,13 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 Hacks that transforms devices
 --
 
-Every once in a while, there is an amazing hack that comes out and brings a completely new function to a device. Here are my favorites.
+Every once in a while, there is a hack that comes out and brings a completely new function to a device. Here are my favorites.
 
 | Device 	| Original Fn 	| New function 	| Enablement 	|  Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|
 | NVIDIA GPU	| Gaming	| Scientific research, Cryptocurrency revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	|  gpgpu	|
 | Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| ps3hpc	|
+| Phone	| Phone	| Generic smart device	| Steve Jobs, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)	| jailbreak	|
 | XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| xbmc	|
 | Kinect	| Gaming peripheral	| 3D scanner/modeller	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| kinect	|
 | Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
