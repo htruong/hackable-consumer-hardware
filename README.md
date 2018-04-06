@@ -56,7 +56,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | iPod Touch 1/2G	| 2007	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
-| Canon Point-n-Shoot	| Various	| Ubiquity, lenses 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
+| Canon Point-n-Shoot	| Various	| Cheap, get the job done 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
 | Nikon DSLR	| Various	| Ubiquity, lenses 	| [Custom FW](https://nikonhacker.com/)	| ?	| nikonhaxxor	|
 | Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
