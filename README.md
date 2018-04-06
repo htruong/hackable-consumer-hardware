@@ -79,7 +79,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | TS100 soldering iron	| ?	| Solder things, small, fast to heat up	| [Open Firmware](https://github.com/Ralim/ts100)	| ?	| ts100	|
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap, flow curves	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
-| Chumby	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
+| Chumby, Insignia Infocast	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 | **Phones & Tablets**	| 	| *Note: Outdated as of yesteryear. Interesting but not useful, likely.*	| 	| 	| 	|
 | Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
