@@ -2,7 +2,7 @@
 
 Here is my personal list of amazing consumer electronic devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
-The world runs on software. The advent of custom firmwares and hacks have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. Normally, custom firmwares mean the hardware does the same function better and more customizable, but sometimes it means "say what?"
+The world runs on software. The advent of custom firmwares and hacks have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. Normally, hacks and custom firmwares mean the hardware does the same function better and more customizable, but sometimes they completely change the course of the devices. For example, NVIDIA GPUs started out being graphics accelerators for gaming, but thanks to CUDA -- initially a hack -- they turned to a catalyst in scientific research, the AI/ML revolution, and the cryptocurrency revolution.
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That was how I started out.
 
