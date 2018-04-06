@@ -22,20 +22,18 @@
  - There are tons of other firmwares such as DD-WRT, ASUS merlin, [tomato and other derrivatives](https://en.wikipedia.org/wiki/Tomato_(firmware)), Gargoyle-router
 
  ##### router3rd_unbrick
- - Depends on the model
- - you have to consult openwrt wiki
+ - Depends on the model, you have to consult openwrt wiki
 
  ##### otheros
  - [Geohot's bad rap](https://www.youtube.com/watch?v=9iUvuaChDEg)
  - [PS3 fail0verflow talk](https://www.youtube.com/watch?v=LP1t_pzxKyE)
 
  ##### ogxbox
- - [Bunnie's site](http://hackingthexbox.com/)
- - Modern Vintage Gamer's series [-1-](https://youtu.be/otysqrBT7ko)
- - [-2-](https://www.youtube.com/watch?v=x7FmelyC70Y)
+ - [Bunnie's site: Hacking the Xbox](http://hackingthexbox.com/)
+ - [Modern Vintage Gamer 1](https://youtu.be/otysqrBT7ko)
+ - [Modern Vintage Gamer 2](https://www.youtube.com/watch?v=x7FmelyC70Y)
 
  ##### psp
- - 
 
  ##### hackmii
  - [Wiibrew](http://wiibrew.org/)
