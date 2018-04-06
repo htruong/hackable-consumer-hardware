@@ -1,4 +1,4 @@
-# Two decades of hackable consumer electronic products
+# List of hackable consumer electronic products
 
 Here is my list of amazing consumer electronic devices in the last two decades that are ubiquitous, have significant hacking values, and affordable. Many of them are hackable by accident and is unintended by the manufacturers.
 
@@ -31,7 +31,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 | Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| N	| hackmii	|
 | Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
-| **Ereaders**	| 	| 	| 	| 	| 	|
+| **E-readers**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
@@ -50,8 +50,8 @@ If you are a student with a limited budget to spend on hobbies and want to start
 | Sony Mirrorless	| Various	| Ubiquity, lenses, Android 	| [Open Memories](https://github.com/ma1co/OpenMemories-Tweak)	| Y	| openmem	|
 | **Dev boards**	| 	| 	| 	| 	| 	|
 | Single Board Computers	| Various	| Affordable, runs Linux	| Linux+	| Y	| sbc	|
-| Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
-| Raspberry Pi Zero W	| 2017	| ... + Very cheap, very small	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| 	|
+| Raspberry Pi 3	| 2017	| ... + Versatile, ubiquity, affordable, amazing and friendly community	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| rpi3	|
+| Raspberry Pi Zero W	| 2017	| ... + Very cheap, very small	| [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)+	| Y	| rpi0	|
 | Arduino	| 2010 -	| Amazing community and support, wiring	| Bare metal	| Y	| arduino	|
 | Arduino Uno	| 2010	| ... + Powerful enough, ubiquity, has enough IOs	| Bare Metal	| Y	| arduinouno	|
 | ESP	| ?	| Very cheap and small, wiring	| Bare metal	| Y	| 	|
