@@ -98,7 +98,7 @@ Every once in a while, there is an amazing piece of software/firmware that came 
 
 | Device 	| Original Fn 	| New function 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
-| NVIDIA GPU	| Gaming	| Scientific research, Finance revolution, AI/ML 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	| Y	| gpgpu	|
+| NVIDIA GPU	| Gaming	| Scientific research, Finance revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	| Y	| gpgpu	|
 | Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| Y	| ps3hpc	|
 | XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
 | Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| Y	| dashbtn	|
