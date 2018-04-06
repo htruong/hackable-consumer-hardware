@@ -1,9 +1,9 @@
-NVIDIA GPU , Game accelerator , Scientific research, Cryptocurrency revolution, AI/ML revolution  , [CUDA](https://en.wikipedia.org/wiki/CUDA)+ ,  gpgpu 
-Sony PS3 , Game console , Super computer , [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster) , ps3hpc 
-Mobile phone , Phone , Generic smart device , Apple, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)+ , iphone 
-XBox , Game console , Media center , XBMC/[Kodi](https://kodi.tv/) , xbmc 
-Kinect , Gaming peripheral , 3D scanner/modeller , [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect) , kinect 
-Amazon Dash button , Amazon button , Smarthome generic button , [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)+ , dashbtn 
-Raspberry Pi , Education , Adblock router , [Pi-hole](https://pi-hole.net/)+ , pihole 
-Raspberry Pi , Education , Smart car head unit , [OpenAuto](https://github.com/f1xpl/openauto)/[Crankshaft](https://getcrankshaft.com)+ , aauto 
-Raspberry Pi , Education , Game console , [libretro](https://www.libretro.com/)/[RetroPie](https://retropie.org.uk/) , retropie 
+NVIDIA GPU;;Game accelerator;Scientific research, Cryptocurrency revolution, AI/ML revolution ;[CUDA](https://en.wikipedia.org/wiki/CUDA)+; gpgpu
+Sony PS3;;Game console;Super computer;[Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster);ps3hpc
+Mobile phone;;Phone;Generic smart device;Apple, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)+;iphone
+XBox;;Game console;Media center;XBMC/[Kodi](https://kodi.tv/);xbmc
+Kinect;;Gaming peripheral;3D scanner/modeller;[Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect);kinect
+Amazon Dash button;;Amazon button;Smarthome generic button;[OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)+;dashbtn
+Raspberry Pi;;Education;Adblock router;[Pi-hole](https://pi-hole.net/)+;pihole
+Raspberry Pi;;Education;Smart car head unit;[OpenAuto](https://github.com/f1xpl/openauto)/[Crankshaft](https://getcrankshaft.com)+;aauto
+Raspberry Pi;;Education;Game console;[libretro](https://www.libretro.com/)/[RetroPie](https://retropie.org.uk/);retropie

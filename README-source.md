@@ -24,8 +24,8 @@ Hacks that transform devices
 
 Every once in a while, there is a hack that comes out and brings a completely new function to a device. Here are my favorites.
 
-| Device  | Original Fn  | New function  | Enablement  |  Resources  |
-|---------- |--------------- |----------- |----------------- |---------- |
+| Device  | Released  | Original Fn  | New function  | Enablement  |  Resources  |
+|---------- |---------- |--------------- |----------- |----------------- |---------- |
 {{hacks.md}}
 
 
