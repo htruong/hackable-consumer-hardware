@@ -2,7 +2,7 @@
 
 Here is my personal list of amazing consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
-The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. I will try to list uses of products such as the Raspberry Pi which was never intended as well.
+The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. I will try to list never-intended-uses of the devices in such categories by means of custom firmwares as well.
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That was how I started out.
 
@@ -45,7 +45,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| N	| hackmii	|
 | Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
-| RPi Retro Games	| ?	| Works with most controllers, even wireless	| [RetroPie](https://retropie.org.uk/)
+| RPi as Game Console	| ?	| Who would have thought the Pi would be an amazing game console?	| [RetroPie](https://retropie.org.uk/)
 | Y	| retropie	|
 | **Ereaders**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
@@ -57,6 +57,9 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Sandisk Salsa Clip	| ?	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iPod Touch 1/2G	| 2007	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
 | iPod Touch 3G	| ?	| Ubiquity, usefulness, touchscreen 	| [grayd00r](http://www.grayd00r.com)	| Y	| grayd00r	|
+| **Media Centers**	| 	| Media Centers and Streaming boxes	| 	| 	| 	|
+| SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
+| XBox	| 2004	| A game console turned to a media center. Precursor to Kodi	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
 | Canon Point-n-Shoot	| Various	| Cheap, get the job done 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
@@ -82,7 +85,6 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | T-962 Reflow Oven	| ?	| Reflows your boards, cheap, flow curves	| [Open Firmware](https://github.com/UnifiedEngineering/T-962-improvements)	| ?	| t962	|
 | TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
 | Chumby, Insignia Infocast	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
-| SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
 | **Phones & Tablets**	| 	| *Note: Outdated as of yesteryear. Interesting but not useful, likely.*	| 	| 	| 	|
 | Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
 | Nexus 5, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| hammerhead, bacon	|
@@ -112,8 +114,11 @@ Resources
 - kinect: [adafruit kinect bounty](https://blog.adafruit.com/2010/11/04/the-open-kinect-project-the-ok-prize-get-1000-bounty-for-kinect-for-xbox-360-open-source-drivers/)
 - nook: [HaD](https://hackaday.com/tag/nook/)
 - kindle: [HaD](https://hackaday.com/category/kindle-hacks/)
+- xbmc: [April Fools post](https://kodi.tv/article/kodi-no-more-april-fools)
 - commaai: [OpenPilot supported carts list](https://github.com/commaai/openpilot#supported-cars)
 - aauto: [crankshaft subreddit](https://www.reddit.com/r/crankshaft), [aasdk](https://github.com/f1xpl/aasdk), [android version](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en)
+- retropie: The Pi works with most controllers, even wireless ones.
+
 
 # Long version
 
