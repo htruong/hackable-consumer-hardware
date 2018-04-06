@@ -55,6 +55,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | iPods/Nanos older gens	| 2001	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | Sandisk Salsa Clip	| ?	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iPod Touch 1/2G	| 2007	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
+| iPod Touch 3G	| ?	| Ubiquity, usefulness, touchscreen 	| [grayd00r](http://www.grayd00r.com)	| Y	| grayd00r	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
 | Canon Point-n-Shoot	| Various	| Cheap, get the job done 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
@@ -89,7 +90,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
 | HP Touchpad	| 2011	| "Firesale", runs many Android versions	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| tenderlion	|
 | Nexus 7	| 2013	| De facto Android tablet, runs many exotic OS	| Android+	| Y	| nexus7	|
-| iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
+| iPhones/iPads	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
 
