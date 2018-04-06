@@ -12,12 +12,10 @@ Please feel free to make pull requests :)
 
 To make it to this list, with a few exceptions, there are several rules-of-thumb:
 
-1. All revisions of such product/model has to be hackable. If only earlier revisions are exploitable -- for example, many routers that have later revisions with less RAM and unable to run the Custom FW -- it can't count.
-2. The latest firmware of such product/model should not be able to completely prevent the user from hacking it. The PS Vita or the Verizon Pixel 1, for example, have patched software that prevents jailbreaking, so that doesn't count.
-3. If there exists a jailbroken firmware or development features from the manufacturer, that firmware has to be open-source. At the very least, it has to offer substaintial development features. Hacking doesn't mean much if only the manufacturer can "hack" it. For example, the Analogue Super Nt *definitely* doesn't count.
+1. No cat-and-mouse game, both in hardware and software. If a model is listed, then all revisions of such model has to be hackable. The latest firmware of such model should not be able to completely prevent the user from hacking it. For example, many routers that have later revisions with less RAM and unable to run the Custom FW -- that doesn't count. The PS Vita or the Verizon Pixel 1, for example, have patched software that prevents jailbreaking, so that doesn't count either.
+2. If there exists a jailbroken firmware or development features from the manufacturer, that firmware has to be open-source. At the very least, it has to offer substaintial development features. Hacking doesn't mean much if only the manufacturer can "hack" it. For example, the Analogue Super Nt *definitely* doesn't count, even it has an unofficial firmware. In the Super Nt case, the unofficial firmware is just a way to not get sued, not a way to open new possibilities.
 
-In other words, rule 1 and 2 mean hacking such product has to be a guarranteed goal, not a lottery when you read its serial number/manufactured date/firmware version. You shouldn't have to pray for a device you purchased to be hackable. For wildly popular and easy-to-check devices, such as iPhones or Kindles, these restrictions can be somewhat less strict.
-
+In other words, being listed here mean hacking such product has to be a guarranteed goal, not a lottery when you read its serial number/manufactured date/firmware version. You shouldn't have to pray for a device you purchased to be hackable. For wildly popular and easy-to-check devices, such as iPhones or Kindles, there are some wiggle rooms.
 
 ## Table of hackable hardware 
 
