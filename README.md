@@ -90,7 +90,7 @@ Every once in a while, there is a hack that comes out and brings a completely ne
 
 | Device  | Released  | Original Fn  | New function  | Enablement  |  Resources  |
 |---------- |---------- |--------------- |----------- |----------------- |---------- |
-|NVIDIA GPU||Game accelerator|Scientific research, Cryptocurrency revolution, AI/ML revolution |[CUDA](https://en.wikipedia.org/wiki/CUDA)+|[ gpgpu](# gpgpu)|
+|NVIDIA GPU||Game accelerator|Scientific research, Cryptocurrency revolution, AI/ML revolution |[CUDA](https://en.wikipedia.org/wiki/CUDA)+|[gpgpu](#gpgpu)|
 |Sony PS3||Game console|Super computer|[Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)|[ps3hpc](#ps3hpc)|
 |Mobile phone||Phone|Generic smart device|Apple, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)+|[iphone](#iphone)|
 |XBox||Game console|Media center|XBMC/[Kodi](https://kodi.tv/)|[xbmc](#xbmc)|
