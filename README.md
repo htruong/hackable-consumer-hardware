@@ -68,7 +68,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | ESP	| ?	| Very cheap and small	| Bare metal	| Y	| esp	|
 | ESP8266	| ?	| ... + Extremely cheap, amazing hacks	| Bare metal	| Y	| esp8266	|
 | ESP32	| ?	| ... + Powerful CPU, Wifi/BLE	| Bare metal	| Y	| esp32	|
-| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [Hacked FW](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
+| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [RN42](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
 | **Cars**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
 | Android Auto headunit	| 2017	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
