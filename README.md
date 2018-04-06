@@ -97,16 +97,15 @@ Every once in a while, there is a hack that comes out and brings a completely ne
 
 | Device 	| Original Fn 	| New function 	| Enablement 	|  Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|
-| NVIDIA GPU	| Gaming	| Scientific research, Cryptocurrency revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	|  gpgpu	|
+| NVIDIA GPU	| Game accelerator	| Scientific research, Cryptocurrency revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	|  gpgpu	|
 | Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| ps3hpc	|
-| Phone	| Phone	| Generic smart device	| Steve Jobs, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)	| jailbreak	|
-| XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| xbmc	|
+| Hand Phone	| Phone	| Generic smart device	| Apple, [Jailbreak](https://en.wikipedia.org/wiki/IOS_jailbreaking)	| iphone	|
+| XBox	| Game console	| Media center	| XBMC/[Kodi](https://kodi.tv/)	| xbmc	|
 | Kinect	| Gaming peripheral	| 3D scanner/modeller	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| kinect	|
-| Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
+| Amazon Dash button	| Amazon button	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
 | Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| pihole	|
 | Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[Crankshaft](https://getcrankshaft.com)+	| aauto	|
 | Raspberry Pi	| Education	| Game console	| [libretro](https://www.libretro.com/)/[RetroPie](https://retropie.org.uk/)	| retropie	|
-
 
 Resources
 --
