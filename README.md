@@ -101,6 +101,7 @@ Every once in a while, there is an amazing piece of software that came out and b
 | NVIDIA GPU	| Gaming	| Scientific research, Cryptocurrency revolution, AI/ML revolution 	| [CUDA](https://en.wikipedia.org/wiki/CUDA)+	|  gpgpu	|
 | Sony PS3	| Game console	| Super computer	| [Linux](https://en.wikipedia.org/wiki/PlayStation_3_cluster)	| ps3hpc	|
 | XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| xbmc	|
+| Kinect	| Gaming peripheral	| 3D scanner/modeller	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| kinect	|
 | Amazon Dash button	| Order stuff	| Smarthome generic button	| [OpenWRT](https://github.com/misc0110/dash-button/tree/master/openwrt)	| dashbtn	|
 | Raspberry Pi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| pihole	|
 | Raspberry Pi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| aauto	|
