@@ -50,7 +50,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
 | **MP3 Players**	| 	| 	| 	| 	| 	|
 | Rockbox devices	| Various	| Runs Doom, plays lossless, drag-n-drop	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
-| iRiver H300 series	| 2005-	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
+| iRiver H300 series	| ?	| ... + Big HDD	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iPods/Nanos older gens	| 2001	| ... + Ubiquity, big HDD, moddable, accessories 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | Sandisk Salsa Clip	| ?	| ... + Compact, SD card support 	| [Rockbox](http://rockbox.org/)	| Y	| rockbox	|
 | iPod Touch 1/2G	| 2007	| Ubiquity, usefulness, touchscreen 	| [whited00r](http://www.whited00r.com/index?lang=en)	| Y	| whited00r	|
@@ -69,9 +69,9 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | ESP8266	| ?	| ... + Extremely cheap, amazing hacks	| Bare metal	| Y	| esp8266	|
 | ESP32	| ?	| ... + Powerful CPU, Wifi/BLE	| Bare metal	| Y	| esp32	|
 | HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [Hacked FW](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
-| **Vehicles**	| 	| 	| 	| 	| 	|
+| **Cars**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| Android Auto headunit	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| Android Auto headunit	| 2017	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
 | Xiaomi Dafang Camera	| 2018	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
