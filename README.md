@@ -32,7 +32,8 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
 | **Laptops**	| 	| 	| 	| 	| 	|
 | Chromebooks	| 2011 -	| Linux native. Many run Windows, ME_Cleaner	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome	|
-| Acer C720	| 2013 -	| ... + Cheap, runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, coolstar	|
+| Acer C720	| 2013	| ... + Cheap, replacable ssd, runs OS X	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, peppy	|
+| Dell Chromebook 13	| 2015	| ... + IPS 1080p, replacable ssd, big trackpad, backlit kb, aluminum build	| [MrChromebox](http://MrChromebox.tech)+	| HW	| chrome, lulu	|
 | Thinkpads	| Various	| Ubiquity, run coreboot vanilla, ME_Cleaner, HW upgradable	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)	| HW	| thinkpad	|
 | Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)+	| HW	| thinkpad, libreboot	|
 | **Routers**	| 	| 	| 	| 	| 	|
@@ -80,12 +81,14 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | TI Calculator	| ?	| Ubiquity, education, slow, fun	| [TiCalc](https://www.ticalc.org/)	| Y	| ticalc	|
 | Chumby	| 2007	| Pioneering device to promote hacking	| [Linux](http://wiki.chumby.com/)	| Y	| chumby	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
-| **Phones**	| 	| *Note: Outdated as of yesteryear. Interesting but not useful, likely.*	| 	| 	| 	|
+| **Phones & Tablets**	| 	| *Note: Outdated as of yesteryear. Interesting but not useful, likely.*	| 	| 	| 	|
 | Nokia N900	| 2009	| Runs Maemo GNU/Linux, has a keyboard	| Stock	| Y	| n900	|
-| Nexus 5/7, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| nexus57	|
+| Nexus 5, OnePlus One	| 2013	| Tons of custom OSes	| Android+	| Y	| hammerhead, bacon	|
 | HTC HD2	| 2009	| Runs every OS imaginable: Win 6-8, Android, etc.	| Windows Mobile+	| Y	| hd2	|
 | Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
 | Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
+| HP Touchpad	| 2011	| "Firesale", runs many Android versions	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| tenderlion	|
+| Nexus 7	| 2013	| De facto Android tablet, runs many exotic OS	| Android+	| Y	| nexus7	|
 | iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
@@ -95,7 +98,7 @@ Resources
 
 - chrome: https://mrchromebox.tech/, https://www.reddit.com/r/chrultrabook/, https://galliumos.org/ 
 - chrome_unbrick: [tnhh.net - selfplug](http://www.tnhh.net/posts/unbricking-chromebook-with-beaglebone.html)
-- coolstar: https://coolstar.org/chromebook/
+- peppy: https://coolstar.org/chromebook/
 - thinkpad: https://www.coreboot.org/Supported_Motherboards, https://www.reddit.com/r/thinkpad/
 - thinkpad_unbrick: https://www.coreboot.org/Board:lenovo/x60/Installation
 - libreboot: https://libreboot.org/docs/hcl/x200.html
