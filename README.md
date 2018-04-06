@@ -91,10 +91,10 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
 
-Software that transforms devices
+Hacks that transforms devices
 --
 
-Every once in a while, there is an amazing piece of software that came out and brought a completely new function to a device. Here are my favorites.
+Every once in a while, there is an amazing hack that comes out and brings a completely new function to a device. Here are my favorites.
 
 | Device 	| Original Fn 	| New function 	| Enablement 	|  Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|
