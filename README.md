@@ -2,7 +2,7 @@
 
 Here is my personal list of amazing consumer devices that are ubiquitous, cheap and have significant hacking values, many accidentally and unintended by the manufacturers.
 
-The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. I will try to count never-intended-uses of the devices in such categories by means of custom firmwares as well.
+The advent of custom firmwares have pushed the capabilities and use cases of those devices to far beyond their intended original use, extending their life way beyond their official support lifetime. Normally, custom firmwares mean it does it better/more customizable, but sometimes it means "oh what?"
 
 If you are a student with limited budget to spend on hobbies and want to start working on embedded devices, many of the devices here are great starting devices: That was how I started out.
 
