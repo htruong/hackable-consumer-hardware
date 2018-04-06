@@ -37,7 +37,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Thinkpad X200	| 2009	| ... + runs libreboot, ME can be disabled entirely	| [Coreboot](https://www.coreboot.org/Supported_Motherboards)+	| HW	| thinkpad, libreboot	|
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
-| Linksys WRT54GL	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
+| Linksys WRT54GL	| 2002	| ... + First router, favored by hams	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
 | **Game Consoles**	| 	| 	| 	| 	| 	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very good emulators	| [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+	| Y	| ogxbox	|
@@ -68,7 +68,7 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | ESP	| ?	| Very cheap and small	| Bare metal	| Y	| esp	|
 | ESP8266	| ?	| ... + Extremely cheap, amazing hacks	| Bare metal	| Y	| esp8266	|
 | ESP32	| ?	| ... + Powerful CPU, Wifi/BLE	| Bare metal	| Y	| esp32	|
-| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [Hacked FW](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| Y	| hc0xbt	|
+| HC-05/HC-06 BT boards	| ?	| Very cheap, does Bluetooth	| [Hacked FW](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
 | **Vehicles**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
 | Android Auto headunit	| Various	| Works with all cars, cheap to hack	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
@@ -87,8 +87,8 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Fairphone 2	| 2015	| Designed to be opened, swappable modules	| Android	| Y	| fp2	|
 | Palm Pre 1-3	| 2009	| Runs WebOS, friendly to develop	| [WebOS Internals](http://www.webos-internals.org/)	| Y	| palmpre	|
 | iPhones	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
-| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| Y	| sl45	|
-| 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| Y	| xda	|
+| Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
+| 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
 
 Resources
 --
