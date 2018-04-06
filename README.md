@@ -21,9 +21,9 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 
 ## Table of hackable hardware 
 
-**UB = Unbrickable**: Is this device practically unbrickable/Extremely low risk when installing the custom FW? Y = Yes, N = No, HW = Needs additional hardware to unbrick \
-**Resources**: Links to interesting trivia you might not know \
-**Custom firmware**: + = There are more than one choice
+**UB = Unbrickable**: Is this device practically unbrickable/Extremely low risk when installing the custom FW? Y = Yes, N = No, HW = Needs additional hardware to unbrick. \
+**Resources**: Links to interesting trivia you might not know. See below. \
+**Custom firmware**: + = There are more than one choice.
 
 | Device 	| Released 	| Why 	| Custom firmware 	| UB 	| Resources 	|
 |----------	|---------------	|-----------	|-----------------	|----------	|----------	|
@@ -36,7 +36,6 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | **Routers**	| 	| 	| 	| 	| 	|
 | Home routers	| 2002 -	| Many run OpenWRT, DD-WRT, Tomato, Gargoyle	| [OpenWRT](https://openwrt.org/)+	| Y/HW	| router3rd	|
 | Linksys WRT54GL	| 2002	| ... + First router, favored by hams, does mesh	| [OpenWRT](https://openwrt.org/)+	| Y	| router3rd	|
-| RPi Adblock router	| 2017	| Very easy to set up	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
 | **Game Consoles**	| 	| 	| 	| 	| 	|
 | Sony PS3	| 2006	| Homebrew, distributed computing, OtherOS	| [Linux](https://en.wikipedia.org/wiki/OtherOS)+	| Y	| otheros	|
 | Microsoft OG XBOX	| 2006	| X86, cheap, very good emulators	| [EvoX](http://www.xbox-hq.com/html/xbox-tutorials-3.html)+	| Y	| ogxbox	|
@@ -44,8 +43,6 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | Nintendo Wii	| 2006	| Homebrew, ext USB	| [Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)	| N	| hackmii	|
 | Nintendo NES/SNES mini	| 2016	| Can add more games, simple	| None	| Y	| snesmini	|
 | Microsoft Kinect	| 2010	| SDK Officially supported by MS	| [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)	| Y	| kinect	|
-| RPi Game Console	| ?	| Who would have thought the Pi would be an amazing game console?	| [RetroPie](https://retropie.org.uk/)
-| Y	| retropie	|
 | **Ereaders**	| 	| 	| 	| 	| 	|
 | B&N Nook Touch	| 2012	| E-ink, relatively open, Android 2.2	| [Android](https://forum.xda-developers.com/nook-touch)	| Y	| nook	|
 | Amazon Kindle (Some?)	| 2007	| E-ink, ubiquity	| [Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)	| ?	| kindle	|
@@ -58,7 +55,6 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | iPod Touch 3G	| ?	| Ubiquity, usefulness, touchscreen 	| [grayd00r](http://www.grayd00r.com)	| Y	| grayd00r	|
 | **Media Centers**	| 	| Media Centers and Streaming boxes	| 	| 	| 	|
 | SteamLink	| 2015	| Very cheap, game controllers	| [Custom Apps](https://www.reddit.com/r/Steam_Link/)	| Y	| steamlink	|
-| XBox	| 2004	| A game console turned to a media center. Precursor to Kodi	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
 | **Digital Cameras**	| 	| 	| 	| 	| 	|
 | Canon DSLR	| Various	| Ubiquity, lenses 	| [Magic Lantern](http://www.magiclantern.fm)	| Y	| magiclantern	|
 | Canon Point-n-Shoot	| Various	| Cheap, get the job done 	| [CHDK](http://chdk.wikia.com/)	| Y	| chdk	|
@@ -76,7 +72,6 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | HC-0x Bluetooth	| ?	| Very cheap, does Bluetooth	| [RN42 Firmware](https://www.youtube.com/watch?v=BBqsVKMYz1I)	| N	| hc0xbt	|
 | **Cars**	| 	| 	| 	| 	| 	|
 | Comma.ai supported cars	| Various	| Autonomous driving/assistance	| [OpenPilot](https://github.com/commaai/openpilot)	| N	| commaai	|
-| RPi Android Auto	| 2018	| Works with all cars/phones, cheap	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
 | **Others**	| 	| 	| 	| 	| 	|
 | Eye-Fi SD cards	| ?	| Small, Wifi, storage	| [Magic Lantern](http://magiclantern.wikia.com/wiki/Eye-Fi)	| ?	| eyefi	|
 | Xiaomi Dafang Camera	| 2017	| Wifi, storage, streaming	| [Enhanced Firmware](https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c)	| Y	| dafang	|
@@ -95,6 +90,18 @@ In other words, rule 1 and 2 mean hacking such product has to be a guarranteed g
 | iPhones/iPads	| 2008	| Ubiquity, runs iOS, very active community	| [JB FW/Cydia](https://cydia.saurik.com/)	| Y	| iphone	|
 | Siemens SL45	| 2001	| First phone to play MP3	| [Hacked FW](https://en.wikipedia.org/wiki/Siemens_SL45#Firmware)	| ?	| sl45	|
 | 'XDA' HTC devices	| 2002	| XDA-developers was born from there	| [Hacked FW](https://en.wikipedia.org/wiki/XDA_Developers)	| ?	| xda	|
+
+Firmwares that transform devices
+--
+
+Every once in a while, there is an amazing piece of software/firmware that came out and brings a completely new function to an old device. Here is my favorite.
+
+| Device 	| Original Fn 	| Unintended function 	| Custom firmware 	| UB 	| Resources 	|
+|----------	|---------------	|-----------	|-----------------	|----------	|----------	|
+| RPi	| Education	| Adblock router	| [Pi-hole](https://pi-hole.net/)+	| Y	| pihole	|
+| XBox	| Game console	| Media center	| [Kodi](https://kodi.tv/)	| Y	| xbmc	|
+| RPi	| Education	| Android Auto head unit	| [OpenAuto](https://github.com/f1xpl/openauto)/[CS](https://getcrankshaft.com)+	| Y	| aauto	|
+| RPi	| Education	| Game console	| [RetroPie](https://retropie.org.uk/)	| Y	| retropie	|
 
 Resources
 --
