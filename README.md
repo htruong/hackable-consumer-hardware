@@ -33,7 +33,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 |Nintendo Wii|2006|Homebrew, ext USB|[Homebrew Channel](http://wiibrew.org/wiki/Homebrew_Channel)|N|[hackmii](#hackmii)|
 |Nintendo NES/SNES mini|2016|Can add more games, controllers, simple|[hakchi2](https://github.com/ClusterM/hakchi2)|Y|[snesmini](#snesmini)|
 |Microsoft Kinect|2010|SDK Officially supported by MS|[Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)|Y|[kinect](#kinect)|
-|Nintendo Switch|2017|Homebrew|[FreeBSD](https://en.wikipedia.org/wiki/Nintendo_Switch_system_software)|Y|[nswitch](#nswitch)|
+|Nintendo Switch|2017|Homebrew, Linux|[Hekate CTCaer-mod](https://gbatemp.net/threads/rcm-payload-hekate-ctcaer-mod.502604/)+|Y|[nswitch](#nswitch)|
 |**E-readers**||||||
 |B&N Nook Touch|2012|E-ink, relatively open, Android 2.2|[Android](https://forum.xda-developers.com/nook-touch)|Y|[nook](#nook)|
 |Amazon Kindle (Some?)|2007|E-ink, ubiquity|[Jailbreak](https://wiki.mobileread.com/wiki/Kindle_Hacks_Information)|?|[kindle](#kindle)|
