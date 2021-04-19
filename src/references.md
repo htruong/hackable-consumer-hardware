@@ -24,6 +24,10 @@
 ##### router3rd_unbrick
 - Depends on the model, you have to consult openwrt wiki
 
+##### turris
+- [Specifications](https://www.turris.com/en/omnia/specifications/)
+- [Datasheet](https://secure.nic.cz/files/Turris-web/Omnia/Omnia2020_datasheet.pdf)
+
 ##### otheros
 - [Geohot's bad rap when sued by Sony](https://www.youtube.com/watch?v=9iUvuaChDEg)
 - [PS3 fail0verflow talk](https://www.youtube.com/watch?v=LP1t_pzxKyE)
