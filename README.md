@@ -25,6 +25,7 @@ If you are a student with a limited budget to spend on hobbies and want to start
 |Thinkpad X200|2009|... + runs libreboot, ME can be disabled entirely|[Libreboot](https://libreboot.org/docs/hcl/x200.html)+|HW|[libreboot](#libreboot)|
 |**Routers**||||||
 |Home routers|2002 -|Many run OpenWRT, DD-WRT, Tomato, Gargoyle|[OpenWRT](https://openwrt.org/)+|Y/HW|[router3rd](#router3rd)|
+|Turris Omnia|2019 -|... + OpenWRT by default, with optional custom Turris frontend+|Y/HW|turris||
 |Linksys WRT54GL|2002|... + First router, favored by hams, does mesh|[OpenWRT](https://openwrt.org/)+|Y|[router3rd](#router3rd)|
 |**Game Consoles**||||||
 |Sony PS3|2006|Homebrew, distributed computing, OtherOS|[Linux](https://en.wikipedia.org/wiki/OtherOS)+|Y|[otheros](#otheros)|
@@ -140,6 +141,10 @@ Resources
 
 ##### router3rd_unbrick
 - Depends on the model, you have to consult openwrt wiki
+
+##### turris
+- [Specifications](https://www.turris.com/en/omnia/specifications/)
+- [Datasheet](https://secure.nic.cz/files/Turris-web/Omnia/Omnia2020_datasheet.pdf)
 
 ##### otheros
 - [Geohot's bad rap when sued by Sony](https://www.youtube.com/watch?v=9iUvuaChDEg)
