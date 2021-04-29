@@ -7,6 +7,7 @@ Thinkpads	Various	Ubiquity, run coreboot vanilla, ME_Cleaner, HW upgradable	[Cor
 Thinkpad X200	2009	... + runs libreboot, ME can be disabled entirely	[Libreboot](https://libreboot.org/docs/hcl/x200.html)+	HW	libreboot
 **Routers**					
 Home routers	2002 -	Many run OpenWRT, DD-WRT, Tomato, Gargoyle	[OpenWRT](https://openwrt.org/)+	Y/HW	router3rd
+Turris Omnia	2019 -	... + OpenWRT by default, with optional custom Turris frontend+	Y/HW	turris
 Linksys WRT54GL	2002	... + First router, favored by hams, does mesh	[OpenWRT](https://openwrt.org/)+	Y	router3rd
 **Game Consoles**					
 Sony PS3	2006	Homebrew, distributed computing, OtherOS	[Linux](https://en.wikipedia.org/wiki/OtherOS)+	Y	otheros
